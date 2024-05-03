@@ -1,4 +1,3 @@
-CRC-8 Assembly Optimization
 This repository contains optimized assembly code for a cyclic redundancy check (CRC-8) algorithm. The optimization involves replacing the original C source code with inline assembly code, resulting in improved performance.
 
 Compilation
